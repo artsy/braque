@@ -1,0 +1,18 @@
+{
+   "_links":{
+      "self":{
+         "href":"http://localhost:9292"
+      },
+      "health":{
+         "href":"http://localhost:9292/health"
+      },
+      "breezes":{
+         "href":"http://localhost:9292/breezes{?page,size,ids%5B%5D*}",
+         "templated":true
+      },
+      "breeze":{
+         "href":"http://localhost:9292/breezes/{id}?token={token}",
+         "templated":true
+      }
+   }
+}

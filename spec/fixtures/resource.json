@@ -1,0 +1,16 @@
+{
+  "id":1,
+  "token":123,
+  "title":"Southerly Breeze",
+  "created_at":"2015-02-11T18:59:01.669Z",
+  "updated_at":"2015-02-12T00:26:22.255Z",
+  "_links":{
+    "self":{
+      "href":"http://localhost:9292/breezes/1"
+    },
+    "tides":{
+      "href":"http://localhost:9292/tides?account_id=1{&page,size}",
+      "templated":true
+    }
+  }
+}
