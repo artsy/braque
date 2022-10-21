@@ -73,7 +73,7 @@ GEM
     minitest (5.16.2)
     multipart-post (2.0.0)
     net-http-digest_auth (1.4)
-    nokogiri (1.13.8)
+    nokogiri (1.13.9)
       mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
     parser (2.3.0.6)
